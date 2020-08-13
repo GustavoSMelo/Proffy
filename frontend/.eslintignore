@@ -1,0 +1,7 @@
+package.json
+tsconfig.json
+.eslintrc.json
+pages/_document.tsx
+styles
+styles/*
+styles/*.ts
