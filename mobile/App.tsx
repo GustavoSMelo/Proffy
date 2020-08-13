@@ -6,7 +6,7 @@ export default function App() {
   return (
     <>
       <Routes />
-      <StatusBar backgroundColor={'#7159ac'} />
+      <StatusBar backgroundColor={'#7159ac'} style={"light"} />
     </>
   )
 }
